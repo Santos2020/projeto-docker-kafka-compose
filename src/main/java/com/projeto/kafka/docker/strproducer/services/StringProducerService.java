@@ -1,6 +1,7 @@
 package com.projeto.kafka.docker.strproducer.services;
 
 import lombok.RequiredArgsConstructor;
+
 import lombok.extern.log4j.Log4j2;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
